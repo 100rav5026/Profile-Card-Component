@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Profile-Card-Component/static/js/main.1e315169.js",
+    "static/media/bgpattern.svg": "/Profile-Card-Component/static/media/bgpattern.b61daebd3cb4b885d10fd683755d49bb.svg",
+    "index.html": "/Profile-Card-Component/index.html",
+    "static/media/bgbottom.svg": "/Profile-Card-Component/static/media/bgbottom.a34eb319c02ad49587c339df93212a6e.svg",
+    "static/media/bgtop.svg": "/Profile-Card-Component/static/media/bgtop.dae77b1febf9b29fe34ed57eba86693f.svg",
+    "main.1e315169.js.map": "/Profile-Card-Component/static/js/main.1e315169.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1e315169.js"
+  ]
+}
